@@ -1,0 +1,16 @@
+<section id="about">
+      <div class="container">
+
+        <header class="section-header">
+          <h3>About Us</h3>          
+        </header>
+
+        <div class="row about-container">
+			<p>i-Magination is a leading Enterprise Content Management(ECM) and Business Process Management(BPM) software and solutions provider.
+			 We believe that in today's increasingly competitive business environment, enterprises need to rely on timely and relevant information to better manage their clients and operations so as to stay ahead in the knowledge-driven economy.
+			 With a wealth of experiences developed over 20 years, we understand these challenges as we work with our clients in their relentless pursuit to succeed.</p>
+        </div>
+
+
+      </div>
+    </section><!-- #about -->
